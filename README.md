@@ -1,0 +1,1 @@
+# Emotion_Recognition_based-on-symbolic-Dynamic-approach_DEAP_dataset
